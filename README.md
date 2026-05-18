@@ -23,7 +23,7 @@ Este proyecto desarrolla un sistema de clasificación profunda para identificar 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/lab10_CNN_IA.git
+   git clone https://github.com/tu-usuario/Clasificacion_de_Gemas.git
    ```
 2. Instala las dependencias:
    ```bash
